@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.5.0
+_src_path: gh:radio-aktywne/template-database-cockroach
+accountname: radio-aktywne
+databasename: obsidian
+description: Users identity data 👤
+docs: true
+docsurl: https://radio-aktywne.github.io/obsidian
+envprefix: OBSIDIAN
+httpport: 20111
+imagename: databases/obsidian
+registry: true
+releases: true
+reponame: obsidian
+repourl: https://github.com/radio-aktywne/obsidian
+rpcport: 20112
+sqlport: 20110
