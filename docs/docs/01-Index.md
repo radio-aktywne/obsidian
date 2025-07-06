@@ -9,5 +9,5 @@ Users identity data 👤
 
 ## 💡 About
 
-`obsidian` is a [`CockroachDB`](https://github.com/cockroachdb/cockroach) database
+`obsidian` is a [`PostgreSQL`](https://www.postgresql.org) database
 that stores users identity data.
