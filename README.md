@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Users identity data 👤
+Users identity database 👤
 
 [![Lint](https://github.com/radio-aktywne/obsidian/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/obsidian/actions/workflows/lint.yaml)
 [![Image](https://github.com/radio-aktywne/obsidian/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/obsidian/actions/workflows/image.yaml)
