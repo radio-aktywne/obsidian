@@ -4,9 +4,9 @@ services:
       context: ./
       network: host
     environment:
+      - "OBSIDIAN__CREDENTIALS__USER__PASSWORD=${OBSIDIAN__CREDENTIALS__USER__PASSWORD:-password}"
       - "OBSIDIAN__SERVER__HOST=${OBSIDIAN__SERVER__HOST:-0.0.0.0}"
       - "OBSIDIAN__SERVER__PORT=${OBSIDIAN__SERVER__PORT:-20110}"
-      - "OBSIDIAN__CREDENTIALS__USER__PASSWORD=${OBSIDIAN__CREDENTIALS__USER__PASSWORD:-password}"
     network_mode: host
     volumes:
       - data:/database/data/

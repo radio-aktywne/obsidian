@@ -5,7 +5,7 @@ title: Index
 
 # obsidian
 
-Users identity data 👤
+Users identity database 👤
 
 ## 💡 About
 
